@@ -17,7 +17,7 @@
 <body>
 <h3>FOOTER</h3>
 <p>
-  <a href="personal info.php" target="content">Personal Information</a>
+  <a href="personalinfo.php" target="content">Personal Information</a>
 </p>
 
 </body>
